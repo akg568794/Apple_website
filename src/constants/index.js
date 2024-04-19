@@ -50,13 +50,16 @@ import {
     {
       id: 1,
       title: "iPhone 15 Pro in Natural Titanium",
-      color: ["#8F8A81", "#ffe7b9", "#6f6c64"],
+      // color: ["#8F8A81", "#ffe7b9", "#6f6c64"],
+      color: ["#CBAACB", "#3b3b3b", "#181819"],
+      
       img: yellowImg,
     },
     {
       id: 2,
       title: "iPhone 15 Pro in Blue Titanium",
-      color: ["#53596E", "#6395ff", "#21242e"],
+      // color: ["#53596E", "#6395ff", "#21242e"],
+      color: ["#9EDDEF", "#D7E2EA", "#57838D"],
       img: blueImg,
     },
     {
@@ -68,7 +71,9 @@ import {
     {
       id: 4,
       title: "iPhone 15 Pro in Black Titanium",
-      color: ["#454749", "#3b3b3b", "#181819"],
+      // color: ["#454749", "#3b3b3b", "#181819"],
+      color: ["#FFC5BF", "#ffe7b9", "#6f6c64"],
+      
       img: blackImg,
     },
   ];
