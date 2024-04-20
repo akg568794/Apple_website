@@ -49,7 +49,7 @@ import {
   export const models = [
     {
       id: 1,
-      title: "iPhone 15 Pro in Natural Titanium",
+      title: "iPhone 15 Pro in Rodeo Dust Titanium",
       // color: ["#8F8A81", "#ffe7b9", "#6f6c64"],
       color: ["#CBAACB", "#3b3b3b", "#181819"],
       
@@ -57,21 +57,20 @@ import {
     },
     {
       id: 2,
-      title: "iPhone 15 Pro in Blue Titanium",
+      title: "iPhone 15 Pro in Dodger Blue Titanium",
       // color: ["#53596E", "#6395ff", "#21242e"],
       color: ["#9EDDEF", "#D7E2EA", "#57838D"],
       img: blueImg,
     },
     {
       id: 3,
-      title: "iPhone 15 Pro in White Titanium",
+      title: "iPhone 15 Pro in Gray Nickel Titanium",
       color: ["#C9C8C2", "#ffffff", "#C9C8C2"],
       img: whiteImg,
     },
     {
       id: 4,
-      title: "iPhone 15 Pro in Black Titanium",
-      // color: ["#454749", "#3b3b3b", "#181819"],
+      title: "iPhone 15 Pro in Pastel Pink Titanium",
       color: ["#FFC5BF", "#ffe7b9", "#6f6c64"],
       
       img: blackImg,
